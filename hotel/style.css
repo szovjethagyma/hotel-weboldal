@@ -1,0 +1,22 @@
+h1{text-align:center;}
+
+h2{text-align:center;}
+
+img{
+    width:800px;
+    height:400px;
+margin-left: 20%;
+padding:10px;
+}
+a:hover{
+    background-color:aqua;
+    border:5px solid blue;
+}
+
+p{
+    text-align:center;
+}
+
+html, section, header{
+    background-color:blanchedalmond;
+}
