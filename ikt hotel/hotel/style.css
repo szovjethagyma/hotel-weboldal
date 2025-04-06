@@ -1,0 +1,46 @@
+h1{text-align:center;}
+
+h2{text-align:center;}
+
+.foimage{
+    width:800px;
+    height:400px;
+margin-left: 25%;
+padding:10px;
+}
+a:hover{
+    background-color: beige;
+    border-radius:10px;
+}
+.foszoveg{
+    text-align:center;
+}
+
+html, section, header{
+    background-color:blanchedalmond;
+}
+
+.logo{
+    width:100px;
+    height:70px;
+    margin-top:30px;
+    
+}
+.bottomtext{
+    color:white;
+  
+    padding-bottom:100px
+
+}
+.folist{
+    margin-left:40%;
+}
+
+.szoba{
+    width:400px;
+height:250px
+}
+
+.imgtext{text-align:center;
+padding:50px;}
+
